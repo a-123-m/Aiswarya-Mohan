@@ -20,35 +20,14 @@ Let's collaborate and embark on a journey towards achieving excellence in softwa
 </ul>
 
 <h2>Languages and Tools</h2>
-<ul style="list-style-type: none;">
-  <li>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30" height="30"/>
-    HTML
-  </li>
-  <li>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="30" height="30"/>
-    CSS
-  </li>
-  <li>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="30" height="30"/>
-    Java
-  </li>
-  <li>
-    <img src="https://img.icons8.com/windows/32/000000/figma.png" alt="Figma" width="30" height="30"/>
-    Figma
-  </li>
-  <li>
-    <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="30" height="30"/>
-    Selenium
-  </li>
-  <li>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"/>
-    JavaScript
-  </li>
-  <li>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30"/>
-    Python
-  </li>
+<ul>
+  <li><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30" height="30"/> HTML</li>
+  <li><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="30" height="30"/> CSS</li>
+  <li><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="30" height="30"/> Java</li>
+  <li><img src="https://img.icons8.com/windows/32/000000/figma.png" alt="Figma" width="30" height="30"/> Figma</li>
+  <li><img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="30" height="30"/> Selenium</li>
+  <li><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"/> JavaScript</li>
+  <li><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30"/> Python</li>
 </ul>
 
 <h2>Projects 💻</h2>
