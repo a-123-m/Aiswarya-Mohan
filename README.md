@@ -3,8 +3,10 @@
   <img src="https://fixingblog.com/wp-content/uploads/2021/06/AdobeStock_257701717-scaled.jpeg" alt="testing" width="500" height="400"/>
 </p>
 <h2>About me 😊</h2>
-<p>I am a passionate and detail-oriented individual eager to kickstart my career as a software tester. With a solid foundation in testing methodologies, I am committed to ensuring the quality and reliability of software products.</p>
-<p>I have recently completed my Manual and Automation Testing course from RogerSoft Technologies, Kakkanad and I'm currently seeking for job opportunities in the field of software testing and quality assurance.</p>
+<p>Hello! I am a dedicated and detail-oriented individual with a burning passion for software testing. Equipped with a good understanding of testing methodologies, I am driven by a relentless pursuit of quality and reliability in software products.
+Recently, I successfully completed my Manual and Automation Testing course from RogerSoft Technologies, Kakkanad. This comprehensive training has not only strengthened my skills but has also instilled in me a deep-seated commitment to excellence in software testing.
+Now, I am eagerly seeking opportunities to launch my career in the dynamic field of software testing and quality assurance. With a keen eye for detail and a proactive approach, I am ready to contribute to the success of your team by ensuring the delivery of top-notch, error-free software solutions.
+Let's collaborate and embark on a journey towards achieving excellence in software quality assurance!</p>
 
 <h2>Skills ✨</h2>
 <ul>
