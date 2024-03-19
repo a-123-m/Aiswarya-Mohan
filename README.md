@@ -20,13 +20,13 @@ Let's collaborate and embark on a journey towards achieving excellence in softwa
 </ul>
 
 <h2>Languages and Tools</h2>
-<span><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30" height="30"/> HTML</span>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="30" height="30"/> CSS
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="30" height="30"/> Java
-<img src="https://img.icons8.com/windows/32/000000/figma.png" alt="Figma" width="30" height="30"/> Figma
-<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="30" height="30"/> Selenium
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"/> JavaScript
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30"/> Python
+<<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="30" height="30"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="30" height="30"/> 
+<img src="https://img.icons8.com/windows/32/000000/figma.png" alt="Figma" width="30" height="30"/> 
+<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="30" height="30"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"/> 
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30"/> 
   
 <h2>Projects 💻</h2>
 <h2>Education 👩‍🎓</h2>
