@@ -20,7 +20,7 @@ Let's collaborate and embark on a journey towards achieving excellence in softwa
 </ul>
 
 <h2>Languages and Tools</h2>
-<ul>
+<ul style="none">
   <li>
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30" height="30"/>
     HTML
