@@ -20,7 +20,7 @@ Let's collaborate and embark on a journey towards achieving excellence in softwa
 </ul>
 
 <h2>Languages and Tools</h2>
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30" height="30"/> HTML
+<span><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30" height="30"/> HTML</span>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="30" height="30"/> CSS
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="30" height="30"/> Java
 <img src="https://img.icons8.com/windows/32/000000/figma.png" alt="Figma" width="30" height="30"/> Figma
