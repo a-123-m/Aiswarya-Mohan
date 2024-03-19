@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/002/779/404/non_2x/people-testing-software-fixing-bugs-in-hardware-device-application-test-and-it-service-concept-illustration-flat-vector.jpg" alt="testing" width="600" height="400"/>
 </p>
-<h2><b>About me</b> 😊</h2>
+<h2>About me😊</h2>
 <p>Hello! I am a dedicated and detail-oriented individual with a burning passion for software testing. Equipped with a good understanding of testing methodologies, I am driven by a relentless pursuit of quality and reliability in software products.
 Recently, I successfully completed my Manual and Automation Testing course from RogerSoft Technologies, Kakkanad. This comprehensive training has not only strengthened my skills but has also instilled in me a deep-seated commitment to excellence in software testing.
 Now, I am eagerly seeking opportunities to launch my career in the dynamic field of software testing and quality assurance. With a keen eye for detail and a proactive approach, I am ready to contribute to the success of your team by ensuring the delivery of top-notch, error-free software solutions.
