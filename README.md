@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
 <h1 align="center"> Hey there !!! I'm Aiswarya Mohan 😇👋</h1>
 <p align="center">
   <img src="https://fixingblog.com/wp-content/uploads/2021/06/AdobeStock_257701717-scaled.jpeg" alt="testing" width="500" height="400"/>
@@ -35,6 +37,7 @@
 </ol>
 
 <div>
-  <h2>Contact Me</h2>
-        <p>I am open to opportunities and eager to connect with professionals in the industry. Feel free to reach out to me via email at <a href="mailto:youremail@example.com">aiswarya2000mohan@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/aiswarya-mohan-950948221/">LinkedIn</a>.</p>
+  <h2>Connect with Me</h2>
+  <i class="far fa-envelope"></i> 
+  <i class="fab fa-linkedin"></i> 
 </div>
