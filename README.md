@@ -14,3 +14,12 @@
 <li>Strong analytical and problem-solving skills</li>
 <li>Excellent communication and teamwork abilities</li>
 </ul>
+
+<h2>Projects</h2>
+<h2>Education</h2>
+<ol>
+  <li>Graduated with an integrated BCA-MCA degree from Amrita Vishwa Vidyapeetham</li>
+  <li>Completed Class 12th at GHSS Elamakkara</li>
+  <li>Completed Class 10th at Amrita Vidyalayam</li>
+</ol>
+
