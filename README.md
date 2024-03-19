@@ -18,8 +18,21 @@
 <h2>Projects</h2>
 <h2>Education</h2>
 <ol>
-  <li>Graduated with an integrated BCA-MCA degree from Amrita Vishwa Vidyapeetham</li>
-  <li>Completed Class 12th at GHSS Elamakkara</li>
-  <li>Completed Class 10th at Amrita Vidyalayam</li>
+  <div>
+     <li>Graduated with an Integrated BCA-MCA degree from Amrita Vishwa Vidyapeetham</li>
+     <p>Passout Year: 2023</p>
+     <p>CGPA: 7.71</p>
+  </div>
+ <div>
+     <li>Completed Class 12th at GHSS Elamakkara</li>
+     <p>Passout Year: 2018</p>
+     <p>CGPA: 9.2</p>
+  </div>
+  <div>
+     <li>Completed Class 10th at Amrita Vidyalayam</li>
+     <p>Passout Year: 2016</p>
+     <p>CGPA: 10</p>
+  </div>
+  
 </ol>
 
