@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there !!! I'm Aiswarya Mohan 😇👋</h1>
 <p align="center">
-  <img src="https://fixingblog.com/wp-content/uploads/2021/06/AdobeStock_257701717-scaled.jpeg" alt="testing" width="500" height="400"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/002/779/404/non_2x/people-testing-software-fixing-bugs-in-hardware-device-application-test-and-it-service-concept-illustration-flat-vector.jpg" alt="testing" width="500" height="400"/>
 </p>
 <h2>About me 😊</h2>
 <p>Hello! I am a dedicated and detail-oriented individual with a burning passion for software testing. Equipped with a good understanding of testing methodologies, I am driven by a relentless pursuit of quality and reliability in software products.
