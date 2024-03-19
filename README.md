@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
 <h1 align="center"> Hey there !!! I'm Aiswarya Mohan 😇👋</h1>
 <p align="center">
   <img src="https://fixingblog.com/wp-content/uploads/2021/06/AdobeStock_257701717-scaled.jpeg" alt="testing" width="500" height="400"/>
