@@ -8,6 +8,8 @@
 <ul>
 <li>Proficient in manual testing techniques</li>
 <li>Familiarity with test case design and execution</li>
+<li>Basic knowledge of Java Programming Language </li>
+<li>Comfortable working with Git and Github</li>
 <li>Basic understanding of automation testing tools like Selenium</li>
 <li>Strong analytical and problem-solving skills</li>
 <li>Excellent communication and teamwork abilities</li>
