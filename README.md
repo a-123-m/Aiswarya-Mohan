@@ -34,3 +34,9 @@
   </div>  
 </ol>
 
+<div>
+  <h2>Contact Me</h2>
+        <p>I am open to opportunities and eager to connect with professionals in the industry. Feel free to reach out to me via email at <a href="mailto:youremail@example.com">aiswarya2000mohan@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/aiswarya-mohan-950948221/">LinkedIn</a>.</p>
+        <p>Let's discuss how I can contribute to your team's success!</p>
+        <p>Aiswarya Mohan</p>
+</div>
