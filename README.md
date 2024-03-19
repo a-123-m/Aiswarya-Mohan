@@ -20,8 +20,8 @@
 <ol>
   <div>
      <li>Graduated with an Integrated BCA-MCA degree from Amrita Vishwa Vidyapeetham</li>
-     <p>Passout Year: 2023</p>
-     <p>CGPA: 7.71</p>
+     <p>Passout Year: 2023<p>CGPA: 7.71</p></p>
+     
   </div>
  <div>
      <li>Completed Class 12th at GHSS Elamakkara</li>
