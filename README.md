@@ -6,7 +6,7 @@
 <h4> Aspiring Data Analyst | Excel | SQL | Python | Power BI | Tableau </h4>
 <p>I'm an aspiring Data Analyst passionate about transforming raw data into meaningful insights and actionable decisions. I enjoy working with data, building dashboards, uncovering trends, and continuously expanding my analytical and technical skills.</p>
 
-<h2>About me😊</h2>
+<h2>😊About me</h2>
 <ul>
   <li>📊 Learning and building projects in Data Analytics </li>
   <li>📈 Creating interactive dashboards and reports </li>
