@@ -33,6 +33,9 @@
 <h2>💻Projects</h2>
 <div>
   <p>Here you can find a list of my projects: </p>
+  <ol>
+    <li>🏥Hospital Emergency Room Dashboard creation in Excel using Power Query and Power Pivot</li>
+  </ol>
 </div>
   
 <h2>🎯Current Goals</h2>
