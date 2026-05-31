@@ -5,7 +5,7 @@
 <br/>
 <h4> Aspiring Data Analyst | Excel | SQL | Python | Power BI | Tableau </h4>
 <p>I'm an aspiring Data Analyst passionate about transforming raw data into meaningful insights and actionable decisions. I enjoy working with data, building dashboards, uncovering trends, and continuously expanding my analytical and technical skills.</p>
-<br/>
+
 <h2>About me😊</h2>
 <ul>
   <li>📊 Learning and building projects in Data Analytics </li>
@@ -15,44 +15,34 @@
   <li>📉 Developing visualizations using Power BI and Tableau </li>
   <li>🌱 Continuously improving my analytical thinking and problem-solving skills </li>
 </ul>
+
 <h2>🛠️ Skills & Tools </h2>
+<h5><b><u> DATA ANALYSIS </u></b> </h5>
 <ul>
-<li>Proficient in manual testing techniques</li>
-<li>Familiarity with test case design and execution</li>
-<li>Basic knowledge of Java Programming Language </li>
-<li>Comfortable working with Git and Github</li>
-<li>Basic understanding of automation testing tools like Selenium</li>
-<li>Strong analytical and problem-solving skills</li>
-<li>Excellent communication and teamwork abilities</li>
+<li>Microsoft Excel</li>
+<li>SQL (Structured Query Language) </li>
+<li>Python </li>
 </ul>
 
-<h2>Languages and Tools</h2>
+<h5><b><u> DATA VISUALIZATION </u></b> </h5>
+<ul>
+<li>Power BI</li>
+<li>Tableau</li>
+</ul>
+
+<h2>💻Projects</h2>
 <div>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30" height="30" style="float: left; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="30" height="30" style="float: left; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="30" height="30" style="float: left; margin-right: 10px;">
-  <img src="https://img.icons8.com/windows/32/000000/figma.png" alt="Figma" width="30" height="30" style="float: left; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="30" height="30" style="float: left; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30" style="float: left; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30" style="float: left; margin-right: 10px;">
-  <div style="clear: both;"></div>
+  <p>Here you can find a list of my projects: </p>
 </div>
   
-<h2>Projects 💻</h2>
-<h2>Education 👩‍🎓</h2>
+<h2>🎯Current Goals</h2>
 <ol>
   <div>
-     <li>Graduated with an Integrated BCA-MCA degree from Amrita Vishwa Vidyapeetham</li>
-     <p>Passout Year: 2023     &nbsp;  &nbsp;  &nbsp;  CGPA: 7.71</p>     
+     <li>Build a strong portfolio of analytics projects</li>
+    <li>Strengthen Excel, SQL and Python skills</li>
+    <li>Master Power BI and Tableau dashboard design</li>
+    <li>Gain practical experience solving real-world business problems</li>
   </div>
- <div>
-     <li>Completed Class 12th at GHSS Elamakkara</li>
-     <p>Passout Year: 2018 &nbsp;  &nbsp;  &nbsp; CGPA: 9.2</p>
-  </div>
-  <div>
-     <li>Completed Class 10th at Amrita Vidyalayam</li>
-     <p>Passout Year: 2016    &nbsp;  &nbsp;  &nbsp; CGPA: 10</p>
-  </div>  
 </ol>
 
 <div>
