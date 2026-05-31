@@ -1,14 +1,21 @@
-<h1 align="center"> Hey there !!! I'm Aiswarya Mohan 😇👋</h1>
+<h1 align="center"> Hey there !!! I'm Aiswarya Mohan👋</h1>
 <p align="center">
   <img src="analyst.png" alt="data analysis" width="600" height="400"/>
 </p>
+<br/>
+<h4> Aspiring Data Analyst | Excel | SQL | Python | Power BI | Tableau </h4>
+<p>I'm an aspiring Data Analyst passionate about transforming raw data into meaningful insights and actionable decisions. I enjoy working with data, building dashboards, uncovering trends, and continuously expanding my analytical and technical skills.</p>
+<br/>
 <h2>About me😊</h2>
-<p>Hello! I am a dedicated and detail-oriented individual with a burning passion for software testing. Equipped with a good understanding of testing methodologies, I am driven by a relentless pursuit of quality and reliability in software products.
-Recently, I successfully completed my Manual and Automation Testing course from RogerSoft Technologies, Kakkanad. This comprehensive training has not only strengthened my skills but has also instilled in me a deep-seated commitment to excellence in software testing.
-Now, I am eagerly seeking opportunities to launch my career in the dynamic field of software testing and quality assurance. With a keen eye for detail and a proactive approach, I am ready to contribute to the success of your team by ensuring the delivery of top-notch, error-free software solutions.
-Let's collaborate and embark on a journey towards achieving excellence in software quality assurance!</p>
-
-<h2>Skills ✨</h2>
+<ul>
+  <li>📊 Learning and building projects in Data Analytics </li>
+  <li>📈 Creating interactive dashboards and reports </li>
+  <li>🐍 Exploring data analysis and automation with Python </li>
+  <li>🗄️ Writing SQL queries for data extraction and analysis </li>
+  <li>📉 Developing visualizations using Power BI and Tableau </li>
+  <li>🌱 Continuously improving my analytical thinking and problem-solving skills </li>
+</ul>
+<h2>🛠️ Skills & Tools </h2>
 <ul>
 <li>Proficient in manual testing techniques</li>
 <li>Familiarity with test case design and execution</li>
