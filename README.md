@@ -33,8 +33,16 @@
 <h2>💻Projects</h2>
 <div>
   <p>Here you can find a list of my projects: </p>
+      <h2>★ Excel</h2>
+    <h5> Practice projects </h5>
   <ol>
-    <li>🏥Hospital Emergency Room Dashboard creation in Excel using Power Query and Power Pivot</li>
+    <li>🏥Hospital Emergency Room Dashboard</li>
+    <li>🛵Swiggy Sales Performance Dashboard</li>
+    <li>👨🏻‍💼HR Analytics dashboard</li>
+  </ol>
+  <h5> Portfolio projects </h5>
+   <ol>
+    <li>🚴🏻‍♀️Decathlon India Sales Performance Dashboard</li>
   </ol>
 </div>
   
