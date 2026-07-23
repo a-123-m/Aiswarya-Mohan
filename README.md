@@ -36,13 +36,13 @@
       <h2>★ Excel</h2>
     <h5> Practice projects </h5>
   <ol>
-    <li>🏥Hospital Emergency Room Dashboard</li>
-    <li>🛵Swiggy Sales Performance Dashboard</li>
-    <li>👨🏻‍💼HR Analytics dashboard</li>
+    <li>🏥Hospital Emergency Room Dashboard : <a href="https://github.com/a-123-m/hospital-emergency-room-dashboard-excel">View Repository</a> </li> 
+    <li>🛵Swiggy Sales Performance Dashboard: <a href="https://github.com/a-123-m/swiggy_sales_dashboard_excel">View Repository</a> </li>
+    <li>👨🏻‍💼HR Analytics dashboard: <a href="https://github.com/a-123-m/HR-Analytics-Dashboard">View Repository</a> </li>
   </ol>
   <h5> Portfolio projects </h5>
    <ol>
-    <li>🚴🏻‍♀️Decathlon India Sales Performance Dashboard</li>
+    <li>🚴🏻‍♀️Decathlon India Sales Performance Dashboard :  <a href="https://github.com/a-123-m/Decathlon-India-Sales-Performance-Dashboard">View Repository</a> </li>
   </ol>
 </div>
   
