@@ -44,6 +44,16 @@
    <ol>
     <li>🚴🏻‍♀️Decathlon India Sales Performance Dashboard :  <a href="https://github.com/a-123-m/Decathlon-India-Sales-Performance-Dashboard">View Repository</a> </li>
   </ol>
+
+  <h2>★ SQL</h2>
+    <h5> Practice projects </h5>
+  <ol>
+    <li>🛍️ Retail Sales Analysis : <a href="https://github.com/a-123-m/Retail-Sales-Analysis_PracticeSQL">View Repository</a> </li> 
+  </ol>
+  <h5> Portfolio projects </h5>
+   <ol>
+    <li>📊Telecom Customer Churn Analysis :  <a href="https://github.com/a-123-m/Telecom-Customer-Churn-Analysis-using-PostgreSQL">View Repository</a> </li>
+  </ol>
 </div>
   
 <h2>🎯Current Goals</h2>
