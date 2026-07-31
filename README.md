@@ -54,6 +54,17 @@
    <ol>
     <li>📊Telecom Customer Churn Analysis :  <a href="https://github.com/a-123-m/Telecom-Customer-Churn-Analysis-using-PostgreSQL">View Repository</a> </li>
   </ol>
+
+   <h2>★ PowerBI</h2>
+    <h5> Practice projects </h5>
+  <ol>
+    <li>🎶 My Spotify-Streaming-History-Dashboard : <a href="https://github.com/a-123-m/Spotify-Streaming-History-Dashboard">View Repository</a> </li> 
+  </ol>
+  <h5> Portfolio projects </h5>
+   <ol>
+    <li></li>
+  </ol>
+  
 </div>
   
 <h2>🎯Current Goals</h2>
