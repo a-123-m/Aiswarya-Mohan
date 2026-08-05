@@ -40,7 +40,9 @@
     <li>👨🏻‍💼HR Analytics dashboard: <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" style="vertical-align: middle;">  <a href="https://github.com/a-123-m/HR-Analytics-Dashboard">View Repository</a> </li>
     <li>🛍️ Retail Sales Analysis : <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"> <a href="https://github.com/a-123-m/Retail-Sales-Analysis_PracticeSQL">View Repository</a> </li> 
     <li>🎶 My Spotify-Streaming-History-Dashboard : <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <a href="https://github.com/a-123-m/Spotify-Streaming-History-Dashboard">View Repository</a> </li> 
+     <li>🏥 Hospital Analysis Dashboard : <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <a href="https://github.com/a-123-m/Hospital-Analysis-Dashboard-PowerBI">View Repository</a> </li> 
   </ol>
+  
   <h2> PORTFOLIO PROJECTS </h2>
    <ol>
     <li>🚴🏻‍♀️Decathlon India Sales Performance Dashboard : <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" style="vertical-align: middle;"> <a href="https://github.com/a-123-m/Decathlon-India-Sales-Performance-Dashboard">View Repository</a> </li>
