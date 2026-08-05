@@ -33,38 +33,19 @@
 <h2>💻Projects</h2>
 <div>
   <p>Here you can find a list of my projects: </p>
-      <h2>★ Excel</h2>
-    <h5> Practice projects </h5>
+      <h2> PRACTICE PROJECTS </h2>
   <ol>
     <li>🏥Hospital Emergency Room Dashboard : <a href="https://github.com/a-123-m/hospital-emergency-room-dashboard-excel">View Repository</a> </li> 
     <li>🛵Swiggy Sales Performance Dashboard: <a href="https://github.com/a-123-m/swiggy_sales_dashboard_excel">View Repository</a> </li>
     <li>👨🏻‍💼HR Analytics dashboard: <a href="https://github.com/a-123-m/HR-Analytics-Dashboard">View Repository</a> </li>
-  </ol>
-  <h5> Portfolio projects </h5>
-   <ol>
-    <li>🚴🏻‍♀️Decathlon India Sales Performance Dashboard :  <a href="https://github.com/a-123-m/Decathlon-India-Sales-Performance-Dashboard">View Repository</a> </li>
-  </ol>
-
-  <h2>★ SQL</h2>
-    <h5> Practice projects </h5>
-  <ol>
     <li>🛍️ Retail Sales Analysis : <a href="https://github.com/a-123-m/Retail-Sales-Analysis_PracticeSQL">View Repository</a> </li> 
-  </ol>
-  <h5> Portfolio projects </h5>
-   <ol>
-    <li>📊Telecom Customer Churn Analysis :  <a href="https://github.com/a-123-m/Telecom-Customer-Churn-Analysis-using-PostgreSQL">View Repository</a> </li>
-  </ol>
-
-   <h2>★ PowerBI</h2>
-    <h5> Practice projects </h5>
-  <ol>
     <li>🎶 My Spotify-Streaming-History-Dashboard : <a href="https://github.com/a-123-m/Spotify-Streaming-History-Dashboard">View Repository</a> </li> 
   </ol>
-  <h5> Portfolio projects </h5>
+  <h2> PORTFOLIO PROJECTS </h2>
    <ol>
-    <li></li>
-  </ol>
-  
+    <li>🚴🏻‍♀️Decathlon India Sales Performance Dashboard :  <a href="https://github.com/a-123-m/Decathlon-India-Sales-Performance-Dashboard">View Repository</a> </li>
+    <li>📊Telecom Customer Churn Analysis :  <a href="https://github.com/a-123-m/Telecom-Customer-Churn-Analysis-using-PostgreSQL">View Repository</a> </li>
+   </ol>
 </div>
   
 <h2>🎯Current Goals</h2>
